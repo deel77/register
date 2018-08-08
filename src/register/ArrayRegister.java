@@ -3,6 +3,7 @@ package register;
 /**
  * register.Person register.
  */
+//dalsi komentar
 public class ArrayRegister implements Register {
 	/** register.Person array. */
 	

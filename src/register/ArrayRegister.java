@@ -5,6 +5,7 @@ package register;
  */
 public class ArrayRegister implements Register {
 	/** register.Person array. */
+	
 	private Person[] persons;
 
 	/** Number of persons in this register. */

@@ -20,7 +20,7 @@ public class ArrayRegister implements Register {
 	 */
 	public ArrayRegister(int size) {
 		persons = new Person[size];
-		count = 0; //nutne cislo 0
+		count = 0; //nutne cislo 0000
 	}
 
 	/* (non-Javadoc)

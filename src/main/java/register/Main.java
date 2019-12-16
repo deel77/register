@@ -11,6 +11,8 @@ public class Main {
     public static void main(String[] args) throws Exception {
         //Register register = new ArrayRegister(3);
     	RegisterStorage storage = new RegisterDbStorage();
+    	
+    	//test for git
 
     	Register register = storage.load();
 
